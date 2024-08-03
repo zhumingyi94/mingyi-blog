@@ -21,6 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.DesktopOnly(Component.TableOfContents()),
 
   ],
   left: [
@@ -28,7 +29,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.RecentNotes({ limit: 3 }),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
