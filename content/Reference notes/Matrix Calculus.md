@@ -43,6 +43,7 @@ $$
 
 ##### Vector sum reduction 
 Let $y=\text{sum}(\mathbf{f(x)}) = \sum_{i=1}^nf_{i}\mathbf{(x)}$. Notice we were careful here to leave the parameter as a vector $\mathbf{x}$ because each function $f_{i}$ could use all values in the vector, not just $x_{i}$. The sum is over the **results** of the function and not the parameter. The gradient (1 x $n$ Jacobian) of vector summation is
+
 $$
 \begin{flalign*}
 \frac{ \partial y }{ \partial \mathbf{x} } &= \begin{bmatrix}
