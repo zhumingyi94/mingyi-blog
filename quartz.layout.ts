@@ -21,14 +21,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.DesktopOnly(Component.TableOfContents()),
-
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.RecentNotes({ limit: 2}),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -36,6 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.TagList(),
     Component.Backlinks(),
+    Component.RecentNotes({ limit: 3}),
   ],
 }
 
