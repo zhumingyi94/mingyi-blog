@@ -1,12 +1,3 @@
-**202408020124**
-**Status:** #flashcards 
-**Tags:** 
-
-<hr style="border: none; height: 2px; background-color: #37FF1D; margin: 20px 0;">
-
-# Matrix Calculus
-<hr style="border: none; height: 2px; background-color: #37FF1D; margin: 20px 0;">
-
 ### Key note
 ##### Generalization of Jacobian
 >[!error] We consider numerator layout, in many research paper, scientist use denumerator layout (It's just the transpose of numerator layout)
