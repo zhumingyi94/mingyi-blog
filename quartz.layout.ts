@@ -27,7 +27,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.RecentNotes({ limit: 5 }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.Explorer()),
   ],
@@ -36,6 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.TagList(),
     Component.Backlinks(),
+    Component.RecentNotes({ limit: 2 }),
   ],
 }
 
