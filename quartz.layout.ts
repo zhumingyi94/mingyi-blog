@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.RecentNotes({ limit: 3 }),
+    Component.RecentNotes({ limit: 2}),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
