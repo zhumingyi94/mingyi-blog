@@ -7,6 +7,7 @@ I am Du Mingyi, nicknamed  "không một." (English: Zero and One)
 I created this blog for two main goals:
 1. To practice my English because it kinda sucks. I want to improve this so much because I want to talk with interesting people more. I want to connect with people and open countless opportunities to work with amazing people around the world. You can see how suck my English is just by reading this introduction (I don't even know other words or synonyms that can replace the phrase "want to") 
 2. I always think that if you don't share your knowledge or try to teach it to other people, your knowledge will become outdated through time and then you'll forget it. Not only that, as Richard Feynman once said
+
 > *"If you want to master something, **<font color="#00b050">teach</font>** it"*
 \- Richard Feynman
 
@@ -26,7 +27,7 @@ You can contact me through:
 In some ways, I think I really like **STEM** (not to the point of loving it or adoring it, just liking it), and I try to embrace this interest to turn it into love (Though, so far, I have been distracted by other things like: anime, girls, video games, fast food ... this blog is kinda a way for me to counter these negative habits). As I write this, I am preparing to <font color="#ff0000">enter</font> my sophomore year; my major is Artificial Intelligence :D 
 
 ### Design
-I love designing and creating anything that is beautiful or visually appealing (I am still an amateur in this field and just design for fun). I am extremely limited in knowledge of **UX and UI**. In fact, I only know some basics rules like: **<u>KEEP IT SIMPLE</u>** or <u>**YOUR LINE-HEIGHT SHOULD OCCUPIED SMALLER SPACE FOR LARGER TEXT SIZE** </u>, etc ...
+I love designing and creating anything that is beautiful or visually appealing (I am still an amateur in this field and just design for fun). I am extremely limited in knowledge of **UX and UI**. In fact, I only know some basics rules like: **<u>KEEP IT SIMPLE</u>** or <u>**YOUR LINE-HEIGHT SHOULD OCCUPIED SMALLER SPACE FOR LARGER TEXT SIZE** </u>, ...
 
 Here are some of my designs (Web, notion template, github README and Slides; because of privacy I will not list all of my designs):
 
