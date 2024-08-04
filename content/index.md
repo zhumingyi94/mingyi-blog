@@ -28,8 +28,8 @@ In some ways, I think I really like **STEM** (not to the point of loving it or a
 
 ### Design
 I love designing and creating anything that is beautiful or visually appealing (I am still an amateur in this field and just design for fun). I am extremely limited in knowledge of **UX and UI**. In fact, I only know some basics rules like: 
-1. **<u>KEEP IT SIMPLE</u>**
-2. **<u>**YOUR LINE-HEIGHT SHOULD OCCUPIED SMALLER SPACE FOR LARGER TEXT SIZE** </u>
+1. **KEEP IT SIMPLE**
+2. **YOUR LINE-HEIGHT SHOULD OCCUPIED SMALLER SPACE FOR LARGER TEXT SIZE**
 3. etc, ...
 
 Here are some of my designs (Web, notion template, github README and Slides; because of privacy I will not list all of my designs):
