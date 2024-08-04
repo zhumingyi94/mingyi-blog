@@ -6,6 +6,7 @@ title: Who am I ?
 I am Du Mingyi, nicknamed  "không một." (English: Zero and One)
 I created this blog for two main goals:
 1. To practice my English because it kinda sucks. I want to improve this so much because I want to talk with interesting people more. I want to connect with people and open countless opportunities to work with amazing people around the world. You can see how suck my English is just by reading this introduction (I don't even know other words or synonyms that can replace the phrase "want to") 
+
 2. I always think that if you don't share your knowledge or try to teach it to other people, your knowledge will become outdated through time and then you'll forget it. Not only that, as Richard Feynman once said
 
 > *"If you want to master something, **<font color="#00b050">teach</font>** it"*
