@@ -15,8 +15,11 @@ So I will try as hard as I can based on my understanding of some concepts (mostl
 You can contact me through:
 
 **Twitter:** https://x.com/NoobmasterxD123
+
 **Facebook:** https://www.facebook.com/dumingyi94
+
 **Email:** nhatoihaycogangtothonmoingay@gmail.com
+
 **Github:** https://github.com/zhumingyi94
 
 ## My interest
