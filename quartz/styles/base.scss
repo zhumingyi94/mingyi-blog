@@ -120,6 +120,13 @@ a {
     display: initial;
   }
 }
+p, li {
+  font-size: 1rem !important;
+}
+
+li {
+  margin-bottom: 0.6rem !important;
+}
 
 .page {
   @media all and (max-width: $fullPageWidth) {
@@ -321,13 +328,13 @@ h1 {
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.12rem;
+  font-size: 1.5rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
@@ -335,7 +342,7 @@ h3 {
 h4,
 h5,
 h6 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }

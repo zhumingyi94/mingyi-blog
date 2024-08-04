@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.TagList(),
     Component.Backlinks(),
-    Component.RecentNotes({ limit: 3}),
+    Component.RecentNotes({ limit: 2}),
   ],
 }
 
