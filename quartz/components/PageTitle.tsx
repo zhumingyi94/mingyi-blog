@@ -23,7 +23,7 @@ PageTitle.css = `
 
 .rectangle {
   width: 120px; /* Adjust width as needed */
-  height: 8px; /* Adjust height as needed */
+  height: 5px; /* Adjust height as needed */
   background-color: #05FF00;
 }
 `
