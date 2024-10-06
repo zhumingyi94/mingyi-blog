@@ -26,7 +26,7 @@ thì tôi quyết định "lọt hố" và tìm cách "vấy bẩn" cái hàm c�
 
 **Chú ý**: Để giải thích cho sự thù địch của tôi với con hàm **Softmax** mời bạn đọc phần I của bài viết, hoặc nếu bạn không thích có thể skip và đọc luôn phần II nếu chỉ muốn hiểu tại sao các mô hình AI hiện nay đều sử dụng con hàm này. 
 ## Sự thù địch của tôi với con hàm $e^x$
-#### Một nửa lý do (hoàn toàn khách quan và không hề cá nhân)
+#### Một nửa lý do (hoàn toàn khách quan và không hề có tư thù cá nhân)
 Tôi vốn là đứa khá thích Toán (dù trình Toán như loèn), thứ tôi thích ở nó là sự phức tạp, khó hiểu nhưng ẩn đằng sau là nét tinh tế, đẹp đẽ của những khuôn mẫu tự nhiên. Với tôi, toán học là ngôn ngữ của Chúa, là cây cầu kết nối ta với vẻ đẹp kỹ vĩ của thiên nhiên, tạo hóa; phản ánh sự thay đổi, kết cấu siêu hình của vũ trụ, ... nhưng trong vẻ đẹp đầy tráng lệ ấy lòi ra con hàm $e^x$.
 Bạn không tin là nó dở người vãi đái ư, vậy để tôi chứng minh cho bạn thấy với bài thơ sau
 
