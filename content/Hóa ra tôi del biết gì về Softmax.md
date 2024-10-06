@@ -22,7 +22,7 @@ Nhưng thực sự tôi vẫn thắc mắc vkl là tại sao mọi người cứ
 ... và còn nhiều bài khác
 
 thì tôi quyết định "lọt hố" và tìm cách "vấy bẩn" cái hàm của nợ này và trên hết là trả lời được câu hỏi tại sao bài báo quái nào người ta cũng dùng con hàm này thế, công nghiệp vkl 
-(*Spoiler: Tôi đã hiểu sai về nó! *)
+(*Spoiler: Tôi đã hiểu sai về nó!*)
 
 **Chú ý**: Để giải thích cho sự thù địch của tôi với con hàm **Softmax** mời bạn đọc phần I của bài viết, hoặc nếu bạn không thích có thể skip và đọc luôn phần II nếu chỉ muốn hiểu tại sao các mô hình AI hiện nay đều sử dụng con hàm này. 
 ## Sự thù địch của tôi với con hàm $e^x$
@@ -186,6 +186,9 @@ trong thư viện Pytorch, thì biếu thức trên chính xác là cách mà h�
 
 ## References
 [Why Do Neural Networks Love the Softmax? (youtube.com)](https://www.youtube.com/watch?v=p-6wUOXaVqs)
+
 [Softmax with cross-entropy (mattpetersen.github.io)](https://mattpetersen.github.io/softmax-with-cross-entropy)
+
 [Understanding softmax and the negative log-likelihood (ljvmiranda921.github.io)](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/)
+
 [Luce's choice axiom - Wikipedia](https://en.wikipedia.org/wiki/Luce%27s_choice_axiom)
