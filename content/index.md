@@ -1,11 +1,11 @@
 ---
 title: Who am I ?
-draft: False
+draft: false
 date: 2024-08-06
 tags:
-    - introduction
+  - introduction
 ---
-![[Pasted image 20240805042920.png | Center]]
+![[Pasted image 20240805042920.png]]
 ## Why I create this blog
 I am Du Mingyi, nicknamed  "không một." (English: Zero and One)
 I created this blog for two main goals:
