@@ -8,10 +8,10 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <div>
-      <div class="rectangle"></div>
       <h1 class={classNames(displayClass, "page-title")}>
         <a href={baseDir}>{title}</a>
       </h1>
+      <div class="rectangle"></div>
     </div>
   )
 }
@@ -22,10 +22,9 @@ PageTitle.css = `
 }
 
 .rectangle {
-  width: 100px; /* Adjust width as needed */
-  height: 50px; /* Adjust height as needed */
+  width: 120px; /* Adjust width as needed */
+  height: 5px; /* Adjust height as needed */
   background-color: #05FF00;
-  margin-bottom: 10px; /* Space between rectangle and title */
 }
 `
 
