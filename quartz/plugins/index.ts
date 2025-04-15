@@ -2,6 +2,33 @@ import { StaticResources } from "../util/resources"
 import { FilePath, FullSlug } from "../util/path"
 import { BuildCtx } from "../util/ctx"
 
+import * as Component from "./emitters/component"
+import * as ContentPage from "./emitters/contentPage"
+import * as Assets from "./emitters/assets"
+import * as Static from "./emitters/static"
+import * as ContentIndex from "./emitters/contentIndex"
+import * as FolderPage from "./emitters/folderPage"
+import * as TagPage from "./emitters/tagPage"
+import * as NotFoundPage from "./emitters/notFoundPage"
+import * as Sitemap from "./emitters/sitemap"
+
+import * as FrontMatter from "./transformers/frontmatter"
+import * as CreatedModifiedDate from "./transformers/createdModifiedDate"
+import * as SyntaxHighlighting from "./transformers/syntaxHighlighting"
+import * as TableOfContents from "./transformers/tableOfContents"
+import * as GitHubFlavoredMarkdown from "./transformers/gfm"
+import * as CrawlLinks from "./transformers/links"
+import * as Latex from "./transformers/latex"
+import * as Description from "./transformers/description"
+import * as HardLineBreaks from "./transformers/breaks"
+import * as ExternalLinks from "./transformers/externalLinks"
+import * as InternalLinks from "./transformers/internalLinks"
+import * as Emoji from "./transformers/emoji"
+import * as Highlight from "./transformers/highlight"
+import * as ObsidianFlavoredMarkdown from "./transformers/ofm"
+
+import * as RemoveDrafts from "./filters/drafts"
+
 export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
   const staticResources: StaticResources = {
     css: [],
@@ -38,9 +65,38 @@ export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
   return staticResources
 }
 
-export * from "./transformers"
-export * from "./filters"
-export * from "./emitters"
+export const emitters = {
+  Component,
+  ContentPage,
+  Assets,
+  Static,
+  ContentIndex,
+  FolderPage,
+  TagPage,
+  NotFoundPage,
+  Sitemap,
+}
+
+export const transformers = {
+  FrontMatter,
+  CreatedModifiedDate,
+  SyntaxHighlighting,
+  TableOfContents,
+  GitHubFlavoredMarkdown,
+  CrawlLinks,
+  Latex,
+  Description,
+  HardLineBreaks,
+  ExternalLinks,
+  InternalLinks,
+  Emoji,
+  Highlight,
+  ObsidianFlavoredMarkdown,
+}
+
+export const filters = {
+  RemoveDrafts,
+}
 
 declare module "vfile" {
   // inserted in processors.ts

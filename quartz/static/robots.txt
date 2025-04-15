@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhumingyi94.github.io/mingyi-blog/sitemap.xml 
