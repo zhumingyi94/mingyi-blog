@@ -3,6 +3,8 @@ import { QuartzEmitterPlugin } from "../types"
 import fs from "fs"
 import { glob } from "../../util/glob"
 import DepGraph from "../../depgraph"
+import { ProcessedContent } from "../vfile"
+import { write } from "./helpers"
 
 export const Static: QuartzEmitterPlugin = () => ({
   name: "Static",
