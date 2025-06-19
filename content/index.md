@@ -24,9 +24,8 @@ So I’ll try to explain what I understand — mostly about Machine Learning and
 
 You can reach me through:
 
-- **Twitter**: https://x.com/NoobmasterxD123  
 - **Facebook**: https://www.facebook.com/dumingyi94  
-- **Email**: nhatoihaycogangtothonmoingay@gmail.com  
+- **Email**: dominhnhat2004@gmail.com  
 - **GitHub**: https://github.com/zhumingyi94
 
 ---
