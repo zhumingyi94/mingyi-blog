@@ -1,7 +1,7 @@
 ---
 title: Who am I ?
 draft: false
-date: 2024-08-06
+date: 2025-06-20
 tags:
   - introduction
 ---
@@ -29,10 +29,37 @@ You can contact me through:
 **Github:** https://github.com/zhumingyi94
 
 ## My interest
-I’m a 21-year-old student from Vietnam, majoring in Artificial Intelligence. I enjoy STEM, not in a romanticized way, but like someone trying to build a relationship — one that takes time, struggle, and the occasional breakup due to distractions like anime, fast food, video games, or just… life.
+I’m a 21-year-old student from Vietnam, majoring in Artificial Intelligence. I enjoy STEM, not in a romanticized way, but like someone trying to build a relationship,  the kind that takes time, struggle, and the occasional breakup due to distractions like anime, fast food, video games, or just… life.
 
-This blog is one way I stay grounded and focused.
+This blog is one way I stay grounded and focused. 
 
+### Coding
+I’ve built projects across both **Software Engineering** and **Artificial Intelligence**, often blending practical needs with theoretical curiosity. But more than just coding, I’m driven by a belief:
+
+> **The future belongs to those who explore what's radically new — not just what's better, but what's different.**
+
+I’m especially drawn to areas like **Reinforcement Learning** and **Representation Learning**, because I believe they’ll become the cognitive backbone of intelligent systems. To me, these aren’t just tools — they’re glimpses into how intelligence, adaptation, and memory might really work at scale.
+
+Beneath it all, I see **Information Theory** not just as math, but as *the physics of understanding* - a framework that quietly governs learning, perception, even meaning itself.
+
+This blog is where I test those ideas out: through experiments, half-finished thoughts, and projects that stretch the limits of what I understand.  
+If you're into that kind of exploration too - WELCOME TO THIS BLOG.
+
+### Mathematics 
+At first, I thought math was just... interesting — abstract puzzles that were fun to play with.  
+But after diving deep into **Representation Learning** (especially tensor-based methods), I’ve come to believe that **mathematics is humanity’s most powerful tool for understanding the world**.
+
+The more I learn, the more surprised I am by how much structure, symmetry, and *meaning* emerges from math — especially when working with things like **manifolds**, **decompositions**, and **invariance principles**. These aren’t just tricks to optimize models — they reveal *how information flows*, *how systems interact*, and *how patterns emerge*.
+
+One of the most beautiful realizations I’ve had:  
+Even something as simple as **commutativity** in a sum isn't just arithmetic. It's a deep idea about how we can *aggregate multiple pieces of information into a single, coherent form* while preserving symmetry. That’s not just math - that’s a **lens**.
+
+Now, I'm working on **tensor decomposition problems** which I try to find efficient ways to represent high-dimensional data using low-rank structures. It's a strange but fascinating world where geometry, linear algebra, and machine learning all collide.
+
+I’m also exploring some AI-related stuff, especially around **representation learning** and model compression.  
+But to be honest... what I *really* want to do is **Reinforcement Learning** 😢 because I stronly believe that only through RL you can push agents to learn, adapt, and even sacrifice if needed. There’s something deeply beautiful about an agent discovering how to act - not by memorizing, but by living.
+
+So yeah, if you’re into tensors, RL, or building weird cognitive systems from scratch, let’s talk.
 
 ### Design
 I enjoy designing and creating anything that feels visually meaningful - whether it's sleek, minimalist, or just something that resonates emotionally. I’m still very much an amateur, and most of my work is just for fun or personal use.
@@ -42,26 +69,28 @@ My knowledge of UX/UI is quite limited, mostly guided by instinct, some basic ru
 Here are a few things I've made along the way :3 
 
 
-#### Arts (NEW)
+#### Arts
 Recently, I started learning more about art and drawing. So far, I’ve spent around 14 hours on it (yeah, I counted 😅), so I’m absolutely still a beginner.
 
 But I'm fascinated by how lines, shapes, and shadows can express ideas just like code — or sometimes even better. Here are some of my earliest attempts:
 
-![[landscape.jpg]]
-
-
-![[tinhvat.jpg]]
-
-
 ![[bird.jpg]]
+*Just a bird*
 
+![[landscape.jpg]]
+*Some scene ?*
 
 ![[cat.jpg]]
+*Cat, I guess?*
+
+![[tinhvat.jpg]]
+*Don't know what to call* 
 
 
-![[sketch.jpg]]
 
 #### Websites and apps
+![[fashion.jpg]]
+*E-commerce shop utilize virtual try-on*
 
 ![[Pasted image 20240805044059.png]]
 *Computer Vision Project for health (2024)*
@@ -94,8 +123,40 @@ And **finally** this website, as well as <font color="#ff0000">a </font>**brand-
 ![[Pasted image 20240805045846.png]]
 *Github*
 ### Coding
-I have some knowledge in both Software Engineering and AI but **not too much**. Stay tuned, I will try hard to update cool project here (Sorry, I'm too lazy to record some of my demos and publish them here) 
+I’ve worked on projects across both Software Engineering and Artificial Intelligence - from web and mobile apps to AI models and experimental research. I’m still learning every day, and I don’t pretend to know everything, but I love solving problems that actually matter.
+
+This blog is where I’ll try to document some of those experiments — when I’m not too distracted or perfectionist to publish them 😅. I believe in learning out loud, and I’d love feedback from anyone.
+
+
 ### Music
-I like playing guitar and listening to Mathrock, J-Pop. I am an amateur fingerstyle guitarist (I stopped playing about 2 years ago but I still think I can play it). I know a little bit about music theory, just enough to understand how chords  fit together. 
-## My story
-Just a little (short) 20-year-old guy living in Asia, trying to become better and seeking oppoturnities to go to the overseas  to meet more amazing people and help them create great things for humanity. 
+I enjoy listening to **Mathrock** and **J-Pop** - genres that combine emotional melodies with unusual rhythms and harmonic textures.  
+
+I used to play **fingerstyle guitar** for fun. It was something I taught myself by ear, slowly figuring things out with whatever musical instinct I had.  
+But after finishing my first year of university, I stopped playing and honestly, I haven’t really picked it up since.
+
+Still, before I paused, I managed to record a piece that meant a lot to me: **“Jump Off” by Jiazhuo Liu**, which I learned entirely by ear - no tabs, no tutorials.  
+That recording is now just a memory of who I was at the time, and how much effort I was willing to put in to make something I cared about.
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/xgSTNfNG4bw" 
+    title="Jump Off" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+I’m still proud of it, not because it’s perfect, but because it captured a phase of learning, patience, and love for sound.  
+Maybe one day I’ll return to it. For now, it’s here as a small piece of my past.
+
+
+## 🌱 My Story
+
+I’m a 21-year-old guy from Asia, still learning and finding my place in the world.
+
+Growing up, I was often seen as different. Sometimes people would call me weird, and it made me feel like I didn’t really belong anywhere. I used to hide the parts of myself that didn’t fit—the curiosity, the strange ideas, the way I saw patterns in things no one else seemed to notice.
+
+But over time, I’ve come to accept that being different isn’t something to be ashamed of. It’s something I can build on. It’s what allows me to approach problems in unusual ways, stay curious about the world, and care deeply about things that don’t always make sense to others.
+
+Now I want to meet more people. I want to hear more perspectives, learn things I never thought about, and collaborate with people who are also trying to create meaningful work.
+
+This blog is one small step toward that. A space to think out loud, share what I’m learning, and hopefully connect with others who are on their own journey too.
