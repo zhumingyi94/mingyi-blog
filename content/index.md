@@ -7,7 +7,7 @@ tags:
 ---
 ![[Pasted image 20240805042920.png]]
 ## Why I create this blog
-I am Du Mingyi, nicknamed  "không một." (English: Zero and One)
+I am Do Minh Nhat, nicknamed  "không một." (English: Zero and One)
 I created this blog for two main goals:
 1. To practice my English because it kinda sucks. I want to improve this so much because I want to talk with interesting people more. I want to connect with people and open countless opportunities to work with amazing people around the world. You can see how suck my English is just by reading this introduction (I don't even know other words or synonyms that can replace the phrase "want to") 
 2. I always think that if you don't share your knowledge or try to teach it to other people, your knowledge will become outdated through time and then you'll forget it. Not only that, as Richard Feynman once said
@@ -29,14 +29,37 @@ You can contact me through:
 **Github:** https://github.com/zhumingyi94
 
 ## My interest
-In some ways, I think I really like **STEM** (not to the point of loving it or adoring it, just liking it), and I try to embrace this interest to turn it into love (Though, so far, I have been distracted by other things like: anime, girls, video games, fast food ... this blog is kinda a way for me to counter these negative habits). As I write this, I am preparing to enter my sophomore year; my major is Artificial Intelligence 😁. 
+I’m a 21-year-old student from Vietnam, majoring in Artificial Intelligence. I enjoy STEM, not in a romanticized way, but like someone trying to build a relationship — one that takes time, struggle, and the occasional breakup due to distractions like anime, fast food, video games, or just… life.
+
+This blog is one way I stay grounded and focused.
+
 
 ### Design
-I love designing and creating anything that is beautiful or visually appealing (I am still an amateur in this field and just design for fun). I am extremely limited in knowledge of **UX and UI**. In fact, I only know some basics rules like: 
-1. **KEEP IT SIMPLE**
-2. **YOUR LINE-HEIGHT SHOULD OCCUPY SMALLER SPACE FOR LARGER TEXT SIZE**
+I enjoy designing and creating anything that feels visually meaningful - whether it's sleek, minimalist, or just something that resonates emotionally. I’m still very much an amateur, and most of my work is just for fun or personal use.
 
-Here are some of my designs (Web, notion template, github README and Slides; because of privacy I will not list all of my designs):
+My knowledge of UX/UI is quite limited, mostly guided by instinct, some basic rules (like "Keep it simple"), and a love for visual coherence.
+
+Here are a few things I've made along the way :3 
+
+
+#### Arts (NEW)
+Recently, I started learning more about art and drawing. So far, I’ve spent around 14 hours on it (yeah, I counted 😅), so I’m absolutely still a beginner.
+
+But I'm fascinated by how lines, shapes, and shadows can express ideas just like code — or sometimes even better. Here are some of my earliest attempts:
+
+![[landscape.jpg]]
+
+
+![[tinhvat.jpg]]
+
+
+![[bird.jpg]]
+
+
+![[cat.jpg]]
+
+
+![[sketch.jpg]]
 
 #### Websites and apps
 
