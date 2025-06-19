@@ -9,18 +9,18 @@ tags:
 
 ## 📝 Why I Create This Blog
 
-I am Do Minh Nhat, nicknamed **"không một"** (which means *Zero and One* in English).
+I am Do Minh Nhat (Du Mingyi), nicknamed **"không một"** (which means *Zero and One* in English).
 
 I created this blog for two main reasons:
 
-1. To practice my English. I want to improve it so I can talk to more interesting people and open opportunities to collaborate with amazing minds around the world. You can probably tell how unpolished my English still is just by reading this — and I’m okay with that.
+1. To practice my English. I want to improve it so I can talk to more interesting people and open opportunities to collaborate with amazing minds around the world. You can probably tell how unpolished my English still is just by reading this and I’m okay with that.
 
 2. To teach what I learn. I believe that if you don’t share your knowledge, you’ll eventually forget it. As Richard Feynman once said:
 
 > *"If you want to master something, teach it."*  
 > — Richard Feynman
 
-So I’ll try to explain what I understand — mostly about Machine Learning and Computer Science. I’d really appreciate any feedback along the way.
+So I’ll try to explain what I understand (mostly about Machine Learning and Computer Science). I’d really appreciate any feedback along the way.
 
 You can reach me through:
 
@@ -32,13 +32,13 @@ You can reach me through:
 
 ## 🧠  My Interest
 
-I’m a 21-year-old student from Vietnam, majoring in Artificial Intelligence. I enjoy STEM — not in a romanticized way, but more like someone trying to build a complicated relationship. One filled with struggle, detours, and occasional distractions like anime, fast food, and video games.
+I’m a 21-year-old student from Vietnam, majoring in Artificial Intelligence. I enjoy STEM though not in a romanticized way, but more like someone trying to build a complicated relationship. One filled with struggle, detours, and occasional distractions like anime, fast food, and video games.
 
 I’m especially drawn to **Reinforcement Learning** and **Representation Learning**. I believe they hold the key to building truly adaptive and intelligent systems. These aren't just tools. They are ways to think about learning, decision-making, and memory in a structured way.
 
-Underneath all of this, I see **Information Theory** not just as a branch of math but as a framework for how meaning arises — how structure emerges, how learning becomes possible, and how systems evolve.
+Underneath all of this, I see **Information Theory** not just as a branch of math but as a framework for how meaning arises (like how structure emerges, how learning becomes possible, and how systems evolve, etc...)
 
-This blog is where I explore those ideas — sometimes in half-finished thoughts, sometimes in working code.
+This blog is where I explore those ideas - sometimes in half-finished thoughts, sometimes in working code.
 
 ---
 
@@ -52,15 +52,15 @@ This blog is where I try to document some of those experiments. When I’m not t
 
 ### 📐  Mathematics
 
-I used to think of math as just a collection of abstract puzzles. But after working more deeply with **Representation Learning**, especially tensor methods, I’ve started to see it as something much deeper — maybe even the most powerful language humanity has for understanding the world.
+I used to think of math as just a collection of abstract puzzles. But after working more deeply with **Representation Learning**, especially tensor methods, I’ve started to see it as something much deeper that is maybe even the most powerful language humanity has for understanding the world.
 
 What surprised me most was how ideas like **manifolds**, **decompositions**, and **invariance** are not just useful for optimization. They reveal how information moves, how structure forms, and how systems stabilize.
 
-Even something like **commutativity** — usually taken for granted — feels profound. It's about how we can combine different pieces of information into a single structure, without losing generality. That’s not just arithmetic. That’s perspective.
+Even something like **commutativity** which is usually taken for granted - feels profound. It's about how we can combine different pieces of information into a single structure, without losing generality. That’s not just arithmetic. That’s perspective.
 
 Right now, I’m working on **tensor decomposition problems** to find efficient ways of representing high-dimensional data using low-rank structures. It’s where geometry, algebra, and learning collide in the best way.
 
-I'm also looking into **model compression** and structural generalization. But to be honest, what I *really* want is to work in **Reinforcement Learning**. I believe it's the only path that truly tests whether a system can adapt, grow, and sometimes even sacrifice. An agent that learns not just by memorizing — but by living — is something beautiful.
+I'm also looking into **model compression** and structural generalization. But to be honest, what I *really* want is to work in **Reinforcement Learning**. I believe it's the only path that truly tests whether a system can adapt, grow, and sometimes even sacrifice. If we could create an agent that learns not just by memorizing but by living, it would be truly incredible.
 
 If you're into tensors, RL, or building intelligent systems from the ground up, let’s connect.
 
@@ -68,13 +68,13 @@ If you're into tensors, RL, or building intelligent systems from the ground up, 
 
  ### 🎨 Design
 
-I like designing things that feel meaningful. Not necessarily fancy, but balanced — visually clear, emotionally resonant. I’m still learning the craft and have no formal training in UX/UI, but I try to follow basic principles like "keep it simple" and "let content lead the layout."
+I like designing things that feel meaningful. Not necessarily fancy, but balanced and visually clear, emotionally resonant. I’m still learning the craft and have no formal training in UX/UI, but I try to follow basic principles like "keep it simple" and "let content lead the layout."
 
 Here are a few examples of what I’ve made:
 
  #### 🎨 Art
 
-Recently, I got curious about drawing. I’ve only spent around 14 hours exploring it (yes, I counted). Still a total beginner — but I’m fascinated by how lines and shapes can express structure and feeling, kind of like code in visual form.
+Recently, I got curious about drawing. I’ve only spent around 14 hours exploring it (yes, I counted). Still a total beginner but I’m fascinated by how lines and shapes can express structure and feeling, kind of like code in visual form.
 
 ![[bird.jpg]]  
 *Just a bird*
@@ -113,7 +113,7 @@ Recently, I got curious about drawing. I’ve only spent around 14 hours explori
 ![[Pasted image 20240805045200.png]]  
 *Green Tech theme (Obsidian)*
 
-And finally, this website — along with a matching theme across Obsidian, Notion, and GitHub.
+And finally, this website along with a matching theme across Obsidian, Notion, and GitHub.
 
 ![[Pasted image 20240805045617.png]]  
 *Obsidian theme*
@@ -132,7 +132,7 @@ I enjoy listening to **Mathrock** and **J-Pop**. The irregular rhythms and layer
 
 I used to play **fingerstyle guitar**, mostly self-taught. I learned by ear and tried to figure things out on my own. But after my first year of university, I stopped playing and haven’t returned to it since.
 
-Before I quit, I recorded a cover of **“Jump Off” by Jiazhuo Liu**, which I learned entirely by ear. No tabs, no tutorials — just slow, obsessive listening.
+Before I quit, I recorded a cover of **“Jump Off” by Jiazhuo Liu**, which I learned entirely by ear. No tabs, no tutorials (just slow, obsessive listening).
 
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/xgSTNfNG4bw" 
@@ -142,7 +142,7 @@ Before I quit, I recorded a cover of **“Jump Off” by Jiazhuo Liu**, which I 
     allowfullscreen>
 </iframe>
 
-I’m still proud of it. Not because it’s flawless, but because it represents effort, patience, and a love for sound. It’s a small piece of who I was — and I wanted to keep it here.
+I’m still proud of it. Not because it’s flawless, but because it represents effort, patience, and a love for sound. It’s a small piece of who I was and I wanted to keep it here.
 
 ---
  ## 🌱 My Story
@@ -155,4 +155,4 @@ But now, I see it differently. That “weirdness” is what lets me think sidewa
 
 I want to meet more people who are building, questioning, exploring. I want to learn from them, create with them, and contribute to something larger than myself.
 
-This blog is one small step in that direction — a quiet space to share, to listen, and to grow.
+This blog is one small step in that direction - a quiet space to share, to listen, and to grow.
