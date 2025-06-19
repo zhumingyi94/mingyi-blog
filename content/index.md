@@ -9,7 +9,7 @@ tags:
 
 ## 📝 Why I Create This Blog
 
-I am Do Minh Nhat (Du Mingyi), nicknamed **"không một"** (which means *Zero and One* in English).
+I am Do Minh Nhat (or Du Mingyi - it’s a Chinese transliteration of my name, and I find it easier for people to pronounce), nicknamed **"không một"** (which means *Zero and One* in English).
 
 I created this blog for two main reasons:
 
