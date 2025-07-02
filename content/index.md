@@ -7,7 +7,7 @@ tags:
 ---
 ![[Pasted image 20240805042920.png]]
 
-## 📝 Why I Create This Blog
+## Why I Create This Blog
 
 I am Do Minh Nhat (or Du Mingyi - it’s a Chinese transliteration of my name, and I find it easier for people to pronounce), nicknamed **"không một"** (which means *Zero and One* in English).
 
@@ -30,7 +30,7 @@ You can reach me through:
 
 ---
 
-## 🧠  My Interest
+## My Interest
 
 I’m a 21-year-old student from Vietnam, majoring in Artificial Intelligence. I enjoy STEM though not in a romanticized way, but more like someone trying to build a complicated relationship. One filled with struggle, detours, and occasional distractions like anime, fast food, and video games.
 
@@ -42,7 +42,7 @@ This blog is where I explore those ideas - sometimes in half-finished thoughts, 
 
 ---
 
-### 💻  Coding
+### Coding
 
 I’ve worked on projects across both Software Engineering and Artificial Intelligence, ranging from full-stack apps to AI-driven systems and research experiments. I’m still learning every day, and I don’t have all the answers. But I care deeply about solving real problems and building things that matter.
 
@@ -50,7 +50,7 @@ This blog is where I try to document some of those experiments. When I’m not t
 
 ---
 
-### 📐  Mathematics
+### Mathematics
 
 I used to think of math as just a collection of abstract puzzles. But after working more deeply with **Representation Learning**, especially tensor methods, I’ve started to see it as something much deeper that is maybe even the most powerful language humanity has for understanding the world.
 
@@ -66,13 +66,13 @@ If you're into tensors, RL, or building intelligent systems from the ground up, 
 
 ---
 
- ### 🎨 Design
+ ### Design
 
 I like designing things that feel meaningful. Not necessarily fancy, but balanced and visually clear, emotionally resonant. I’m still learning the craft and have no formal training in UX/UI, but I try to follow basic principles like "keep it simple" and "let content lead the layout."
 
 Here are a few examples of what I’ve made:
 
- #### 🎨 Art
+ #### Art
 
 Recently, I got curious about drawing. I’ve only spent around 14 hours exploring it (yes, I counted). Still a total beginner but I’m fascinated by how lines and shapes can express structure and feeling, kind of like code in visual form.
 
@@ -88,7 +88,7 @@ Recently, I got curious about drawing. I’ve only spent around 14 hours explori
 ![[tinhvat.jpg]]  
 *Don’t know what to call this one*
 
-#### 🌐  Websites and Apps
+#### Websites and Apps
 
 ![[fashion.jpg]]  
 *E-commerce shop with virtual try-on*
@@ -99,7 +99,7 @@ Recently, I got curious about drawing. I’ve only spent around 14 hours explori
 ![[Pasted image 20240805044206.png]]  
 *Smart Assistant mobile app (2024)*
 
-#### 🧩 Notion / GitHub / Obsidian Templates
+#### Notion / GitHub / Obsidian Templates
 
 ![[Pasted image 20240805044422.png]]  
 *Red Samurai (inspired by Ghost of Tsushima)*
@@ -126,7 +126,7 @@ And finally, this website along with a matching theme across Obsidian, Notion, a
 
 ---
 
- ### 🎵 Music
+ ### Music
 
 I enjoy listening to **Mathrock** and **J-Pop**. The irregular rhythms and layered textures are chaotic in the best way.
 
@@ -145,7 +145,7 @@ Before I quit, I recorded a cover of **“Jump Off” by Jiazhuo Liu**, which I 
 I’m still proud of it. Not because it’s flawless, but because it represents effort, patience, and a love for sound. It’s a small piece of who I was and I wanted to keep it here.
 
 ---
- ## 🌱 My Story
+ ## My Story
 
 I’m a 21-year-old student from Asia, still figuring things out.
 
